@@ -8,3 +8,7 @@ change username and password in java file to your credentials before using
 
 the files are in the following folder
 https://drive.google.com/drive/folders/1f674cE5j4v1kkRSrj_4KqYjpm1I5hb4J?usp=sharing
+
+
+
+please open src/com/company/gui.java and execute the file to see the application
